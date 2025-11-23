@@ -10,8 +10,8 @@ I enjoy interlectual discussions revolving around business ideas, health, financ
 🛠️ My Stack
 - Languages: JavaScript, TypeScript, HTML, CSS
 - Frameworks: React, Next.js, Node.js, Express
-- Databases: MongoDB, Firebase, PostgreSQL
-- Tools & Platforms: Git, GitHub, Vercel, Netlify, AWS (basic), Docker (learning)
+- Databases: Django, Postman, PostgreSQL
+- Tools & Platforms: Git, GitHub, Vercel, AWS (basic), Docker (learning)
 - Design: Figma, Tailwind CSS, Framer Motion
 
 🚀 What I'm Working On
@@ -25,13 +25,13 @@ Before I got into tech, I led high-performance customer support teams in the avi
 That background taught me how to think operationally, lead with empathy, and execute under pressure.
 
 ✍🏽 Recent Projects
-- 🔖 [Conference Ticket Generator (HNG Internship Task)](https://github.com/your-username/project-link)  
-- 🎨 [Color Matching Game](https://github.com/your-username/project-link)  
-- 🌐 [Portfolio Website (Next.js + Tailwind + TypeScript)](https://github.com/your-username/project-link)
+- 🔖 [Conference Ticket Generator (HNG Internship Task)](#https://github.com/your-username/project-link)  
+- 🎨 [Color Matching Game](#https://github.com/your-username/project-link)  
+- 🌐 [Portfolio Website (Next.js + Tailwind + TypeScript)](#https://github.com/your-username/project-link)
 
 📫 Let’s Connect
-- 🔗 [LinkedIn](https://linkedin.com/in/your-link)
-- 💼 [Portfolio](https://your-portfolio-link.com)
+- 🔗 [LinkedIn](#https://linkedin.com/in/your-link)
+- 💼 [Portfolio](#https://your-portfolio-link.com)
 - 📧 Email: yourname@email.com
 
 ---
